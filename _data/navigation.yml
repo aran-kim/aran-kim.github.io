@@ -1,0 +1,20 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+
+categories:
+  - title : "전체 카테고리 보기"
+    url: /categories/
+  - title : "arancho"
+    url: /categories/me/
+  - title : "컴퓨터 사이언스"
+    url: /categories/cs/
+  - title : "알고리즘"
+    url: /categories/algorithm/
+
+
+
