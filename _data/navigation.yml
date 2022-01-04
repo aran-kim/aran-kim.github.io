@@ -1,9 +1,29 @@
 main:
   - title: "Posts"
     url: /posts/
+<<<<<<< HEAD
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
+=======
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+
+categories:
+  - title : "전체 카테고리 보기"
+    url: /categories/
+  - title : "arancho"
+    url: /categories/me/
+  - title : "컴퓨터 사이언스"
+    url: /categories/cs/
+  - title : "알고리즘"
+    url: /categories/algorithm/
+
+
+
+>>>>>>> db6a8b2 (blog start)
