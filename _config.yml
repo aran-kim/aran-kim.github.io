@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -23,12 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 =======
+=======
+>>>>>>> db6a8b2322ba89273f757428165b388d9bbac0c1
 title: 열심히 살자
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   공부하려고 만든 블로그입니다.
 github_username: aran_cho_
+<<<<<<< HEAD
 >>>>>>> db6a8b2 (blog start)
+=======
+>>>>>>> db6a8b2322ba89273f757428165b388d9bbac0c1
 minimal_mistakes_skin: default
 search: true
 
@@ -67,6 +73,7 @@ plugins:
 
 author:
 <<<<<<< HEAD
+<<<<<<< HEAD
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
@@ -96,6 +103,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 =======
+=======
+>>>>>>> db6a8b2322ba89273f757428165b388d9bbac0c1
   name   : "아란초"
   avatar : "/assets/images/profile.jpg"
   bio    : "열심히 공부하겠습니다!"
@@ -116,16 +125,23 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/aran_cho_"
+<<<<<<< HEAD
 >>>>>>> db6a8b2 (blog start)
+=======
+>>>>>>> db6a8b2322ba89273f757428165b388d9bbac0c1
 
 defaults:
   # _posts
   - scope:
 <<<<<<< HEAD
+<<<<<<< HEAD
       path: ""
 =======
       path: "_posts"
 >>>>>>> db6a8b2 (blog start)
+=======
+      path: "_posts"
+>>>>>>> db6a8b2322ba89273f757428165b388d9bbac0c1
       type: posts
     values:
       layout: single

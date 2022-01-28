@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
@@ -29,3 +30,6 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 =======
 ## 공부 블로그
 >>>>>>> db6a8b2 (blog start)
+=======
+## 공부 블로그
+>>>>>>> db6a8b2322ba89273f757428165b388d9bbac0c1
