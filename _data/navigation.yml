@@ -1,17 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
-<<<<<<< HEAD
-<<<<<<< HEAD
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
-=======
-=======
->>>>>>> db6a8b2322ba89273f757428165b388d9bbac0c1
   - title: "Tags"
     url: /tags/
   - title: "About"
@@ -27,9 +18,3 @@ categories:
   - title : "알고리즘"
     url: /categories/algorithm/
 
-
-
-<<<<<<< HEAD
->>>>>>> db6a8b2 (blog start)
-=======
->>>>>>> db6a8b2322ba89273f757428165b388d9bbac0c1
